@@ -1,0 +1,7 @@
+Description of the Folder Structure applicable for Any 3 folders from above logger files/Scenarion recording/ Scenario Files:
+
+
+     |->New (contains new scenarios)
+        |->With_Obstacle_Avoidance(contains scenarios with obstacle avoidance mode enabled)
+           |->Working (contains scenarioes with obstacle avoidance where there is not crash between entities)
+	   |->Not Working (contains scenarios with obstacle avoidance where there are no entities that are not crashing)	   
